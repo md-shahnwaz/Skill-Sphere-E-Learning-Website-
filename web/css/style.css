@@ -1,0 +1,21 @@
+.ss{
+    color: red;
+    font-size: 50px;
+}
+.circle{
+    border: 1px solid transparent;
+    width: 65%;
+    height: 65%; 
+    background-color: #006A73;
+    border-radius: 50%;
+    outline: 10px #009999 solid;
+}
+
+.mytxt li a{
+    color: #006A73;
+}
+.mytxt li a:hover{
+    color: white;
+    background: #006A73;
+    border-radius: 10px;
+}
